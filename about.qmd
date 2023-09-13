@@ -2,4 +2,5 @@
 title: "About"
 ---
 Hi!
-This is an about me section for Salva Umar's 521 Lab 2.
+Introduction: This is an about me section for Salva Umar's 521 Lab 2.
+
