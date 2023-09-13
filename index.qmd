@@ -5,3 +5,6 @@ title: "salvau-website"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Hi, 
+Welcome to this quarto site - this Salva Umar's Lab 2 completed.

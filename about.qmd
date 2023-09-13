@@ -1,5 +1,5 @@
 ---
 title: "About"
 ---
-
-About this site
+Hi!
+This is an about me section for Salva Umar's 521 Lab 2.
